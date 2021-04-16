@@ -1,0 +1,27 @@
+body {
+    background: linear-gradient(to left top, blue, red) fixed;
+  }
+.isactive{
+    color :red ;
+    font-size: 15px;
+}
+
+.card-group
+{
+    border-radius: 222px;
+
+        margin-top: 5cm;
+      margin-left: 3cm;
+        width: 33.33%;
+        color: #fff;
+        text-align: center;
+      }
+      
+      
+
+.img.card.top {
+    margin-right: auto;
+    width: 170px;
+    height: 194px;
+    
+ }
